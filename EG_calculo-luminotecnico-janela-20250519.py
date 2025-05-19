@@ -7,6 +7,9 @@ Created on Mon May 19 18:54:50 2025
 Calculo simples, onde os dados não são coletados via tabela e sim, inseridos
 pelo usuário.
 
+Aprimoramentos: É necessário embutir as tabelas para a escolha automática dos
+parâmetros do ambiente.
+
 
 """
 
